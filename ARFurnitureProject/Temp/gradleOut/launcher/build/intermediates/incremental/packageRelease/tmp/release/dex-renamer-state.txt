@@ -1,0 +1,4 @@
+#Tue Jun 01 21:00:18 KST 2021
+base.0=D\:\\Program Works\\ARFurnitureProject\\Temp\\gradleOut\\launcher\\build\\intermediates\\dex\\release\\out\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
