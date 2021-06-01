@@ -1,4 +1,4 @@
 ### XRContentsAcademy
-🎮 ##XR 콘텐츠 아카데미 프로그래머 과정 🎮
+🎮 XR 콘텐츠 아카데미 프로그래머 과정 🎮
 
-- 🛏️ #ARFurnitureProject - AR을 활용한 가구배치 프로젝트
+- 🛏️ ARFurnitureProject - AR을 활용한 가구배치 프로젝트
