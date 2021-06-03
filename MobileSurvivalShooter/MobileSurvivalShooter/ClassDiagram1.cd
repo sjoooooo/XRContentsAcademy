@@ -1,0 +1,60 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Nightmare.PlayerShooting">
+    <Position X="3" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>IAQBEAwIEAACBQAAAAEAAAAQCICSAAQAAQACEIAAgEE=</HashCode>
+      <FileName>Assets\Scripts\Player\PlayerShooting.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Nightmare.PlayerHealth">
+    <Position X="4.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAAAAABAIAACAQABAABEkAAggAYAAoIBAAEA=</HashCode>
+      <FileName>Assets\Scripts\Player\PlayerHealth.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Nightmare.PlayerMovement">
+    <Position X="6.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAABAAgAMoAEAAAAAAAAAAAAAAAACQAAAQAAAACAAEA=</HashCode>
+      <FileName>Assets\Scripts\Player\PlayerMovement.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Nightmare.EnemyAttack">
+    <Position X="8.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>gAQBAAAAAAAAAAAkAAAAEAAAAIAAAIABQQAAAAAAAEA=</HashCode>
+      <FileName>Assets\Scripts\Enemy\EnemyAttack.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Nightmare.EnemyHealth">
+    <Position X="10.5" Y="0.5" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AQQAAAAAAAAADAAgAAAAUARAAIgEAAAkAQAAgAEACEA=</HashCode>
+      <FileName>Assets\Scripts\Enemy\EnemyHealth.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Nightmare.EnemyMovement">
+    <Position X="12.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>gCRBgABAAAAIQAKgAAQAEAQAAAAAAAgBAIAAABgYSEA=</HashCode>
+      <FileName>Assets\Scripts\Enemy\EnemyMovement.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Nightmare.CameraFollow">
+    <Position X="6.5" Y="4.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AACAAAAAAiAAAAAAIAAAAAAAAAAAAAAAAAQAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\Camera\CameraFollow.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Nightmare.EnemyManager">
+    <Position X="14" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>gBQBAAAAACAAAAAAAAEAAAAAAAACAAAAAAAAAAAECAI=</HashCode>
+      <FileName>Assets\Scripts\Managers\EnemyManager.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Malgun Gothic" Size="9" />
+</ClassDiagram>
